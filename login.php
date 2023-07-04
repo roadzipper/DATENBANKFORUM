@@ -30,7 +30,7 @@ print $page->head("Login");
 
 print '<div class="uk-flex uk-flex-center uk-flex-middle" uk-height-viewport="expand: true">
 <div class="uk-flex uk-flex-column uk-flex-middle uk-animation-slide-top">
-    <h1 class="uk-heading-large">21Seaboard</h1>';
+    <h1 class="uk-heading-large">Forum</h1>';
  
 if ($error) {
     print '<div class="uk-alert-danger" uk-alert>
